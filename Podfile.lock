@@ -1,0 +1,33 @@
+PODS:
+  - Flutter (1.0.0)
+  - FlutterPluginRegistrant (0.0.1):
+    - Flutter
+  - ReachabilitySwift (5.0.0)
+  - SwiftMessageBar (5.6.1)
+
+DEPENDENCIES:
+  - Flutter (from `../../development/tappp_panel/.ios/Flutter`)
+  - FlutterPluginRegistrant (from `../../development/tappp_panel/.ios/Flutter/FlutterPluginRegistrant`)
+  - ReachabilitySwift
+  - SwiftMessageBar
+
+SPEC REPOS:
+  trunk:
+    - ReachabilitySwift
+    - SwiftMessageBar
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: "../../development/tappp_panel/.ios/Flutter"
+  FlutterPluginRegistrant:
+    :path: "../../development/tappp_panel/.ios/Flutter/FlutterPluginRegistrant"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  FlutterPluginRegistrant: 58acfb6cb31ee4ca14f920aba101815efda113ee
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SwiftMessageBar: bb93132e3cd4c8896a971df1b425a587bc5e26ae
+
+PODFILE CHECKSUM: 3ec948e90adb8c23e9e98503bd5fff0b01f7be6e
+
+COCOAPODS: 1.11.3
